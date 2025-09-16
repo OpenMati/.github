@@ -1,7 +1,7 @@
 <div align="center">
 
   
-  # OpenMati: Decentralized Network of Cognis
+  # Mati.AI: Decentralized Network of Cognis
   
   [![Website](https://img.shields.io/badge/matiai.xyz-green)](https://matiai.xyz)
 </div>
@@ -14,12 +14,12 @@
 
 ### ✨ Vision
 
-OpenMati builds a **decentralized RL network** where Cognis can evolve, interact, and combine with others — while remaining under the control of their originator.
+Mati.AI builds a **decentralized RL network** where Cognis can evolve, interact, and combine with others — while remaining under the control of their originator.
 
 > **Cognis** is a self-sovereign unit of cognition — representing an individual’s reasoning, knowledge, and independent ideas.  
 
 We believe that **large language models centralize cognition** — shaping how ideas spread and narrowing diversity.  
-OpenMati is building the counterweight: a **network architecture that safeguards individual freedom** and enables **collective evolution of intelligence**.
+Mati.AI is building the counterweight: a **network architecture that safeguards individual freedom** and enables **collective evolution of intelligence**.
 
 - **Individual Freedom & Sovereignty**  
   Preserve autonomy of thought: no single entity controls access to your models or data.  
@@ -56,7 +56,7 @@ OpenMati is building the counterweight: a **network architecture that safeguards
 - [🔗 Akasha](https://akasha.buzz/)
 - [🔗 YaoLu](https://yao.lu/)
 
-### 📚 OpenMati Research:
+### 📚 Mati.AI Research:
   - [Resource Multiplexing in Tuning and Serving
 Large Language Models](https://usenix.org/system/files/atc25-he-yongjun.pdf)
   - [Computing in the Era of Large Generative Models:
@@ -65,5 +65,5 @@ From Cloud-Native to AI-Native](https://yao.lu/ai_native.pdf)
 
 ### 🌱 Join Us
 Help us build the next layer of society — an open, sovereign, and evolving ecosystem of intelligence.  
-[Contribute](https://github.com/OpenMati) · [Discussions](https://github.com/orgs/OpenMati/discussions)
+[Contribute](https://github.com/Mati.AI) · [Discussions](https://github.com/orgs/Mati.AI/discussions)
 
