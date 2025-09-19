@@ -65,5 +65,5 @@ From Cloud-Native to AI-Native](https://yao.lu/ai_native.pdf)
 
 ### 🌱 Join Us
 Help us build the next layer of society — an open, sovereign, and evolving ecosystem of intelligence.  
-[Contribute](https://github.com/Mati.AI) · [Discussions](https://github.com/orgs/Mati.AI/discussions)
+[Contribute](https://github.com/orgs/OpenMati/repositories) · [Discussions](https://github.com/orgs/OpenMati/discussions)
 
